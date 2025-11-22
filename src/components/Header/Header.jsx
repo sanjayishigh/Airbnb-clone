@@ -63,7 +63,7 @@ function Header({ headerRef }) {
           </button>
 
           <a
-            href="https://github.com/sanjayishigh"
+            href="https://github.com/sanjayishigh/Airbnb-clone"
             target="_blank"
             rel="noopener noreferrer"
           >
